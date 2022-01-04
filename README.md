@@ -10,7 +10,7 @@ Working on a GUI Builder targeting Vaadin applications first, others maybe later
 
 ### Latest released stuff
 
-  Ancient shadow routine on a landscape https://mjvesa.github.io/stuff/shadows.html
+  * 2021-12 Ancient shadow routine on a landscape https://mjvesa.github.io/stuff/shadows.html
 
 <!--
 **mjvesa/mjvesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
