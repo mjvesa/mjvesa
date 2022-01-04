@@ -1,4 +1,16 @@
-### Hi there 👋
+### Who am I
+
+* Coder from Finland.
+* Professional work: frontend web development with occasional dips into full stackiness. 
+* Unprofessional work: demoscene stuff
+
+### What I'm up to now
+
+Working on a GUI Builder targeting Vaadin applications first, others maybe later
+
+### Latest released stuff
+
+  Ancient shadow routine on a landscape https://mjvesa.github.io/stuff/shadows.html
 
 <!--
 **mjvesa/mjvesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
