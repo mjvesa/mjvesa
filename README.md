@@ -6,7 +6,7 @@
 
 ### What I'm up to now
 
-Working on a GUI Builder targeting Vaadin applications first, others maybe later
+Working on a GUI Builder targeting Vaadin applications first, others maybe later. Check it out at https://gui-builder.com
 
 ### Latest released stuff
 
