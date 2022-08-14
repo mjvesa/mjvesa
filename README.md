@@ -9,7 +9,7 @@
 Working on a GUI Builder targeting Vaadin applications first, others maybe later. Check it out at https://gui-builder.com
 
 ### Latest released stuff
-  * 4k @ Assembly 2022, third place. Check the video https://www.youtube.com/watch?v=4PTTdl_d_zI
+  * 2022-8 4k @ Assembly 2022, third place. Check the video https://www.youtube.com/watch?v=4PTTdl_d_zI
   * 2021-12 Ancient shadow routine on a landscape https://mjvesa.github.io/stuff/shadows.html
 
 <!--
