@@ -2,14 +2,17 @@
 
 * Coder from Finland.
 * Professional work: frontend web development with occasional dips into full stackiness. 
-* Unprofessional work: demoscene stuff
+* Unprofessional work: demoscene, sizecoding in particular
 
 ### What I'm up to now
 
-Working on a GUI Builder targeting Vaadin applications first, others maybe later. Check it out at https://gui-builder.com
+* Working mostly on sizecoded demoscene stuff.
+* GUI Builder targeting Vaadin applications first, others maybe later. Check it out at https://gui-builder.com
 
 ### Latest released stuff
-  * 2022-8 4k @ Assembly 2022, third place. Check the video https://www.youtube.com/watch?v=4PTTdl_d_zI
+
+  * 2023-2 512b NiteRide @ Lovebyte 2023, fifth place https://www.youtube.com/watch?v=a4YbBWzIeHA
+  * 2022-8 4k Hessdalen Valley @ Assembly 2022, third place. Check the video https://www.youtube.com/watch?v=4PTTdl_d_zI
   * 2021-12 Ancient shadow routine on a landscape https://mjvesa.github.io/stuff/shadows.html
 
 <!--
