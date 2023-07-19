@@ -1,7 +1,7 @@
 ### Who am I
 
 * Coder from Finland.
-* Professional work: frontend web development with occasional dips into full stackiness. 
+* Professional work: full stack web development
 * Unprofessional work: demoscene, sizecoding in particular
 
 ### What I'm up to now
