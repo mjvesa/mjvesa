@@ -10,6 +10,7 @@
 * GUI Builder targeting Vaadin applications first, others maybe later. Check it out at https://gui-builder.com
 
 ### Latest released stuff
+  * 2023-10 256b Motion Pollution https://www.youtube.com/watch?v=O-DtT-AXGDo
   * 2023-8 4k Terror from the Deep @ Assembly 2023, seventh place https://www.youtube.com/watch?v=uQ75_BYeA6U
   * 2023-4 4k Amenthes @ Revision 2023, ninth place https://www.youtube.com/watch?v=HLNHcKqvI_8&t=246s
   * 2023-2 512b NiteRide @ Lovebyte 2023, fifth place https://www.youtube.com/watch?v=a4YbBWzIeHA
