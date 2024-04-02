@@ -10,6 +10,7 @@
 * GUI Builder targeting Vaadin applications first, others maybe later. Check it out at https://gui-builder.com
 
 ### Latest released stuff
+  * 2024-3 4k Cabin Fever @ Revision 2024, 15th place https://www.youtube.com/watch?v=_CXvNfu4vHM&t=715s minisite https://mjvesa.fi/skene/cabin_fever/
   * 2024-2 256b Computer Fantasies @ Lovebyte 2024, 23th place https://www.youtube.com/watch?v=ad7fR6eILI8
   * 2023-10 256b Motion Pollution https://www.youtube.com/watch?v=O-DtT-AXGDo
   * 2023-8 4k Terror from the Deep @ Assembly 2023, seventh place https://www.youtube.com/watch?v=uQ75_BYeA6U
