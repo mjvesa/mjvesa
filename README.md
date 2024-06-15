@@ -7,7 +7,6 @@
 ### What I'm up to now
 
 * Working mostly on sizecoded demoscene stuff.
-* GUI Builder targeting Vaadin applications first, others maybe later. Check it out at https://gui-builder.com
 
 ### Latest released stuff
   * 2024-3 4k Cabin Fever @ Revision 2024, 15th place https://www.youtube.com/watch?v=_CXvNfu4vHM&t=715s minisite https://mjvesa.fi/skene/cabin_fever/
