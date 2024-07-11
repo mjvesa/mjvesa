@@ -9,6 +9,7 @@
 * Working mostly on sizecoded demoscene stuff.
 
 ### Latest released stuff
+  * 2024-7 128b Kukkanen https://www.youtube.com/watch?v=oVe73bjFh5g
   * 2024-3 4k Cabin Fever @ Revision 2024, 15th place https://www.youtube.com/watch?v=_CXvNfu4vHM&t=715s minisite https://mjvesa.fi/skene/cabin_fever/
   * 2024-2 256b Computer Fantasies @ Lovebyte 2024, 23th place https://www.youtube.com/watch?v=ad7fR6eILI8
   * 2023-10 256b Motion Pollution https://www.youtube.com/watch?v=O-DtT-AXGDo
