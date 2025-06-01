@@ -6,7 +6,7 @@
 
 ### What I'm up to now
 
-* Working mostly on sizecoded demoscene stuff.
+* Size*speed as a much better measure of code quality than just size
 
 ### Latest released stuff
   * 2024-7 128b Kukkanen https://www.youtube.com/watch?v=oVe73bjFh5g
