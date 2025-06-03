@@ -6,7 +6,7 @@
 
 ### What I'm up to now
 
-* Exploring size*speed as a much better measure of code quality than just size
+* performance * size = quality
 
 ### Latest released stuff
   * 2024-7 128b Kukkanen https://www.youtube.com/watch?v=oVe73bjFh5g
